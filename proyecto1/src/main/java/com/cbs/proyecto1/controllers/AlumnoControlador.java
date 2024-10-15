@@ -41,8 +41,13 @@ public class AlumnoControlador {
 	}
 
 	/*
-	 * Identificador nuevo data encontrar el objeto a modificar que NO exista
-	 * Actualizr Objeto data guardar sin errores AVISAR
+	 * Identificador nuevo data 
+	 * encontrar el objeto a modificar 
+	 * que NO exista
+	 * Actualizr Objeto data 
+	 * guardar sin errores 
+	 * 
+	 * AVISAR
 	 */
 
 	// ACTUALIZAR:
