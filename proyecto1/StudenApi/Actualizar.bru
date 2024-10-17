@@ -1,0 +1,20 @@
+meta {
+  name: Actualizar
+  type: http
+  seq: 4
+}
+
+put {
+  url: http://localhost:8084/AlumnoDto/update
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+   "id": 1,
+      "dni": "Pepe",
+      "nombre": "Roca",
+      "apellidos": "77770055"
+  }
+}
